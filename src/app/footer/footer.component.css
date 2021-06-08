@@ -1,0 +1,9 @@
+.bg-pink {
+    background-color: rgb(20, 20, 20);
+}
+
+.footer {
+    position: absolute;
+    height: 60px;
+    width: 100%;
+}
